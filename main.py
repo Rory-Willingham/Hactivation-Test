@@ -1,19 +1,22 @@
 ''' 
 Hactivation Test - Shaun Miller - V1 - 2/12/19
 
-Instruction:
-	1. Add a file titled yourName.py
-	2. Press run to recieve your task/s.
+Start Instructions:
+	1. Press run to recieve your task/s.
+
+Repl.it Instruction:
+	2. Add a file titled yourName.py to the studentHacks folder
 	3. Complete the task using this platform or pyCharm
 	4. Update your file in this environment with your solution. 
 
-Instruction V2:
-	1. Click the version control button
-	2. Add a branch with your name in it
-	
+GitHub Instruction:
+	1. Open GitHub and sign in with your school Gmail
+	2. Press the fork button to create a personal copy of this Git
+	3. Add a file titled yourName.py to the studentHacks folder
+	4. Copy your code into this new file
+	5. Press commit changes with description of changes
 
-
-Test:
+To Test in Repl.it:
 	1. Press command + shift + P
 	2. Type shell
 	3. Select Open Shell
