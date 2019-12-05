@@ -3,7 +3,8 @@ Sample run for my low stakes programming tasks!
 
 Start Instructions:
 
-	1. Press run to recieve your task/s.
+	1. Open the task in repl.it
+	2. Press run to recieve your task/s.
 
 Repl.it Instruction:
 
