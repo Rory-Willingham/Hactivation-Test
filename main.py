@@ -7,6 +7,12 @@ Instruction:
 	3. Complete the task using this platform or pyCharm
 	4. Update your file in this environment with your solution. 
 
+Instruction V2:
+	1. Click the version control button
+	2. Add a branch with your name in it
+	
+
+
 Test:
 	1. Press command + shift + P
 	2. Type shell
